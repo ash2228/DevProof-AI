@@ -1,1 +1,1 @@
-# DevProof-AI
+# DevProof AI
