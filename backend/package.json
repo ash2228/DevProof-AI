@@ -2,6 +2,6 @@
   "name": "backend",
   "packageManager": "yarn@4.9.4",
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon src/main.ts"
   }
 }
